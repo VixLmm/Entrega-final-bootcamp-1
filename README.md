@@ -1,6 +1,4 @@
-# introdução
-
-Arquivo no github da entrega final de Bootcamp-1
+# introdução - Arquivo no github da entrega final de Bootcamp-1
 ---
 ## Ferramentas 
 -  **Google Docs & Slides**: Apresentação inicial de bootcamp
