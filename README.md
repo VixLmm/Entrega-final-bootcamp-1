@@ -7,7 +7,7 @@
 -   **Google Gemini**: Ajudante com ideias e revisão
 ---
 ### Link da apresentação para apresentação final
-- [Link do vídeo]()
+- [Link do vídeo](https://youtu.be/_B7y36zvRY0)
 - [Link Plano de Implantação](https://docs.google.com/document/d/10YhiLbzQiCs_HCibi0hiCXcRmTRM8QbTzMOIPNvWBVM/edit?usp=sharing)
 ---
 #### Link de Bootcamp
