@@ -5,7 +5,6 @@ Arquivo no github da entrega final de Bootcamp-1
 -  **Google Docs & Slides**: Apresentação inicial de bootcamp
 -   **GitHub**: controle de versão e colaboração no código e documentação
 -   **Google sites** Site da entrega inicial de bootcamp
--   
 ---
 ### Link da apresentação
 [Link do vídeo]()
