@@ -4,9 +4,11 @@
 -  **Google Docs & Slides**: Apresentação inicial de bootcamp
 -   **GitHub**: controle de versão e colaboração no código e documentação
 -   **Google sites** Site da entrega inicial de bootcamp
+-   **Google Gemini**: Ajudante com ideias e revisão
 ---
-### Link da apresentação
-[Link do vídeo]()
+### Link da apresentação para apresentação final
+- [Link do vídeo]()
+- [Link Plano de Implantação](https://docs.google.com/document/d/10YhiLbzQiCs_HCibi0hiCXcRmTRM8QbTzMOIPNvWBVM/edit?usp=sharing)
 ---
 #### Link de Bootcamp
 - [Google sites bootcamp-1](https://sites.google.com/view/lucasmarottientregasite/in%C3%ADcio)
