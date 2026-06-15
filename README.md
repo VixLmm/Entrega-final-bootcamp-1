@@ -18,5 +18,5 @@
 
 ----
 ##### Arquivos em código
-Códigos pessoais -> Códigos em python
-Códigos academicos -> Códigos do CEUB
+- Códigos pessoais -> Códigos em python
+- Códigos academicos -> Códigos do CEUB
